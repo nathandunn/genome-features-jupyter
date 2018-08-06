@@ -1,0 +1,5 @@
+{
+  "load_extensions": {
+    "genome-feature-jupyter-widget/extension": true
+  }
+}

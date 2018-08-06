@@ -1,0 +1,2 @@
+recursive-include genome-feature-jupyter-widget/static *.*
+include genome-feature-jupyter-widget.json
