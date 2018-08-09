@@ -19,3 +19,11 @@ For a development installation (requires npm),
     $ pip install -e .
     $ jupyter nbextension install --py --symlink --sys-prefix genome-feature-jupyter-widget
     $ jupyter nbextension enable --py --sys-prefix genome-feature-jupyter-widget
+
+
+To run it:
+
+    > from example import *
+    > HelloWorld()
+    > `Hello World`
+
